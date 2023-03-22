@@ -1,0 +1,64 @@
+[
+	{
+		"Test Data 1": {
+			
+			"urlClient": "https://wsg-client-test.flentisprouat.com/login.aspx",
+			"emailClient": "lrogers@wsgcorp.comTEST",
+			"passwordClient": "53007",
+			"healthSystem": "San Ysidro Health",
+			"facility": "Health System",
+			"hsUnit": "COVID Testing Unit",
+			"typeOfWorker": "Medical Support - Clinical",
+			"hsSpeciality": "Medical Assistant COVID Runner",
+			"requisitionType": "Temp",
+			"noOfWeeks": "10",
+			"noOfPositions": "10",
+			"rate": "10",
+			"startTime": "0800AM",
+			"endTime": "0500PM",
+			"vendorlist": ["HealthCare Talent","Cypress"],
+			"managerName": "Shana Hackworth",
+			"reqReason": "High Census",
+			
+			"urlVendor": "https://wsg-vendor-test.flentisprouat.com/login.aspx",
+			"emailVendor": "ajung1234@healthcaretalent.netTEST",
+			"passwordVendor": "31003",
+		
+			"firstName": "Aarya",
+			"middleName": "N",
+			"lastName": "Sareen",
+			"candidateEmail": "AaryaSareen@yopmail.com",
+			"phone": "9876532104",
+			"candidatePayRate": "30",
+			"suite/apt": "LXI",
+			"address": "Andhra Bhavan, Noida City",
+			"zip": "342003",
+			"city": "Noida",
+			"state": "Kentucky / United States",
+			"availability": "01/30/2023",
+			"sSN": "8520",
+			"timeZone": "Central Time",
+			"vendorEmployeeID": "3699",
+			"stateOT": "United States - Ohio",
+			"specialty": "Medical Assistant COVID Runner (Medical Support - Clinical)",
+		
+		
+		
+			"interviewDate1": "03/20/2023",
+			"interviewTime1": "1000AM",
+			"interviewTimeZone1": "Central Time",
+			"interviewComment1": "Yesterday",
+			
+			"interviewDate2": "03/18/2023",
+			"interviewTime2": "1200PM",
+			"interviewTimeZone2": "Alaska Time",
+			"interviewComment2": "Today",
+			
+			"interviewDate3": "03/23/2023",
+			"interviewTime3": "0500PM",
+			"interviewTimeZone3": "Mountain Time",
+			"interviewComment3": "Tomorrow"
+			
+	}
+}
+]
