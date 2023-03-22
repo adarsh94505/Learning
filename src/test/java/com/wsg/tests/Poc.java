@@ -83,14 +83,7 @@ public class Poc extends BaseTest
 		System.out.println("test passed successfully"); */
 	}
 
-/*	@Test (priority = 2)
-	public void clientLogin() throws IOException {
 
-		driver.get("https://wsg-client-test.flentisprouat.com/login.aspx");
-		driver.findElement(By.id("btnLogin")).click();
-		Assert.assertTrue(false);
-
-	} */
 
 	@DataProvider
 	public Object[][] getData() throws IOException 
